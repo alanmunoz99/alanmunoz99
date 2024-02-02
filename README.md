@@ -1,10 +1,10 @@
 # Hola amigos!!! 👋
 
-Soy Alan M, un estudiante de Ciencias de la Computación en la UNAM. Bienvenidos a mi en GitHub, aquí comparto y colaboro en diversos proyectos. 
+Soy Alan Muñoz, estudiante de Ciencias de la Computación en la UNAM. Bienvenidos a mi GitHub, aquí comparto y colaboro en diversos proyectos. 
 
 ## 🌱 Aprendiendo Actualmente
 
-Actualmente, estoy explorando estudiando la materia de Sistemas Operativos del sexto semestre. Si tienes sugerencias o recursos útiles,por favor hazme saber!
+Actualmente, estoy estudiando la materia de Sistemas Operativos del sexto semestre. Si tienes sugerencias o recursos útiles,por favor hazme saber!
 
 ## 📫 Cómo Contactarme
 
